@@ -1,4 +1,3 @@
-Com certeza! Com base nos arquivos que você enviou, criei um README para o seu projeto de análise de dados sobre empresas unicórnio.
 
 # Projeto de Análise de Dados - Empresas Unicórnio
 
